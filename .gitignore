@@ -1,0 +1,16 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+#npm
+node_modules/
+
+htdocs/
+dll/
+
+package-lock.json
+yarn.lock
